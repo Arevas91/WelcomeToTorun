@@ -3,13 +3,13 @@ Aplikacja o tematyce mojego rodzinnego miasta zbudowana w oparciu o języki: Jav
 
 # Prawidłowa konfiguracja projektu
 - warstwa backend
-	a) utworzenie połączenia z bazą danych - osobiście korzystam i polecam MySQL
-	b) utworzenie bazy danych poprzez wykonanie polecenia w konsoli: <code>CREATE DATABASE welcome CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</code>
-	c) uchromienie kodu w klasie <code>WelcomeToTorunApplication</code>
+	- utworzenie połączenia z bazą danych - osobiście korzystam i polecam MySQL
+	- utworzenie bazy danych poprzez wykonanie polecenia w konsoli: <code>CREATE DATABASE welcome CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;</code>
+	- uchromienie kodu w klasie <code>WelcomeToTorunApplication</code>
 - warstwa fronted
-	a) instalacja Node.js na komputerze w przypadku braku platformy
-	b) w folderze webapp wykonanie polecenia <code>npm install</code>
-	c) w folderze webapp wykonanie polecania <code>npm start</code>
+	- instalacja Node.js na komputerze w przypadku braku platformy
+	- w folderze webapp wykonanie polecenia <code>npm install</code>
+	- w folderze webapp wykonanie polecania <code>npm start</code>
 
 Projekt został skonfigurowany i poprawanie uruchomiony.
 
